@@ -3,4 +3,4 @@ UMA ANÁLISE COMPARATIVA DE MÉTODOS DE MACHINE LEARNING PARA MANUTENÇÃO PREDI
 
 Treinamento e comparação entre métodos de ML com base nos dados do Turbofan
 
-Para replicar deve-se aplicar esse código em um notebook, seja Google Colab(aqui utilizado) ou Jupyter.
+Para replicar deve-se aplicar esse código em um notebook, seja Google Colab ou Jupyter.
